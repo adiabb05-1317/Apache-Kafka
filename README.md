@@ -44,7 +44,7 @@
 ### Integration with Golang
 #### Overview:
 - Go, also known as Golang, is a statically typed, compiled language designed at Google. It's known for its performance and efficiency.
-- While I'm not familiar with a library named "salaam" as of my last update, you can typically integrate Kafka with Go using various client libraries like `sarama` or `confluent-kafka-go`.
+-  you can typically integrate Kafka with Go using various client libraries like `sarama` or `confluent-kafka-go`.
 
 #### Steps:
 1. **Install Go Kafka Library**: 
